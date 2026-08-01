@@ -64,7 +64,7 @@ Dataset: SuperStore Sales DataSet.csv
 
 - SuperStore Sales DataSet.csv
 - super store sales dashboard.pbix
-- Dashboard.png.png
+- Dashboard.png
 
 ---
 
