@@ -46,7 +46,7 @@ Dataset: SuperStore Sales DataSet.csv
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png.png)
+![Dashboard](Dashboard.png)
 
 ---
 
